@@ -2,7 +2,8 @@
  * Awesome JS Debugger tool! For free !!44!!!!!444
  */   
 
-function debug(ger) {
+var d = function debug(ger)
+{
     console.log(ger);
     debugger;
 }
