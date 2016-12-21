@@ -6,11 +6,11 @@ Awesome JS Debugger tool! For free !!44!!!!!444
 Simple usage:
 
 ```javascript
-function debug(ger) 
+var d = function debug(ger)
 {
-	console.log(ger);
-	debugger;
+    console.log(ger);
+    debugger;
 }
 
-debug('awesome tool!');
+d('awesome tool!');
 ```
